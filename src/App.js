@@ -1,9 +1,4 @@
-import {
-  Routes,
-  Route,
-  useNavigationType,
-  useLocation,
-} from "react-router-dom";
+import { Routes, Route, useNavigationType, useLocation,} from "react-router-dom";
 import OurShop from "./pages/our-shop";
 import OurMenuPage from "./pages/our-menu-page";
 import { useEffect } from "react";
